@@ -24,4 +24,4 @@ npm run build
 Just some screenshots in various sizes.
 
 ![Mobile Screenshot](/mobile-screenshot.png?raw=true "Mobile Screenshot")
-![Laptop Screenshot](/Laptop-screenshot.png?raw=true "Laptop Screenshot")
+![Laptop Screenshot](/laptop-screenshot.png?raw=true "Laptop Screenshot")
