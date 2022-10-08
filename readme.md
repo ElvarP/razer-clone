@@ -23,8 +23,5 @@ npm run build
 
 Just some screenshots in various sizes.
 
-## <img src="/mobile-screenshot.png" width="1170">
-
-## <img src="/mobile-screenshot.png" width="390">
-
-<img src="/laptop-screenshot.png" width="1280">
+<img src="/mobile-screenshot.png" width="390">
+<img src="/laptop-screenshot.png">
